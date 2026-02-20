@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02sln\\projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02sln\\projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02sln\\projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Transacao.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
+              "ToolTip": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Transacao.cs",
+              "RelativeToolTip": "Projeto02\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:13:41.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Banco.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Banco.cs",
+              "ToolTip": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Banco.cs",
+              "RelativeToolTip": "Projeto02\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:11:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Program.cs",
               "RelativeDocumentMoniker": "Projeto02\\Program.cs",
               "ToolTip": "E:\\luizasjdgf\\Projeto02\\Projeto02SLN\\Projeto02\\Program.cs",
               "RelativeToolTip": "Projeto02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T18:06:56.726Z",
               "EditorCaption": ""
