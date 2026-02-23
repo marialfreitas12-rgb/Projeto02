@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Projeto02;
 
-namespace Projeto02
+public class TransacaoPix : Transacao
 {
-    internal class TransaçaoPix
+    public string ChavePix { get; set; }
+
+    public override bool Validar()
     {
+        return _valor > 0 && _valor <= 10000;
     }
 }

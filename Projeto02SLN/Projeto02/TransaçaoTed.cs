@@ -1,9 +1,9 @@
-﻿using System;
+﻿using Projeto02;
 
-namespace Projeto02
+public class TransacaoTed : Transacao
 {
-    public class TransacaoTed : Transacao
+    public override bool Validar()
     {
-        public string Finalidade { get; set; }
+        return _valor > 5000;
     }
 }
