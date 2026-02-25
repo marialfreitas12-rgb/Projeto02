@@ -6,6 +6,6 @@ public class TransacaoPix : Transacao
 
     public override bool Validar()
     {
-        return _valor > 0 && _valor <= 10000;
+        return base.Validar() && _valor <= 10000;
     }
 }

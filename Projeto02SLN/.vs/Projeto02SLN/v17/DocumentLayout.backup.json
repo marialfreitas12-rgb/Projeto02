@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\transa\u00E7aoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transa\u00E7aoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\transa\u00E7aopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transa\u00E7aopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\transa\u00E7aoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transa\u00E7aoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|e:\\luizasjdgf\\projeto02\\projeto02\\projeto02sln\\projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20E18D-4DB2-4F6D-B3E4-19F068A682E9}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Transa\u00E7aoTed.cs",
               "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Transa\u00E7aoTed.cs",
               "RelativeDocumentMoniker": "Projeto02\\Transa\u00E7aoTed.cs",
@@ -47,33 +47,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Transa\u00E7aoPix.cs",
               "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Transa\u00E7aoPix.cs",
               "RelativeDocumentMoniker": "Projeto02\\Transa\u00E7aoPix.cs",
               "ToolTip": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Transa\u00E7aoPix.cs",
               "RelativeToolTip": "Projeto02\\Transa\u00E7aoPix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T12:47:01.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Transacao.cs",
               "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Transacao.cs",
               "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
               "ToolTip": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Transacao.cs",
               "RelativeToolTip": "Projeto02\\Transacao.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T18:13:41.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Banco.cs",
               "DocumentMoniker": "E:\\luizasjdgf\\Projeto02\\Projeto02\\Projeto02SLN\\Projeto02\\Banco.cs",
               "RelativeDocumentMoniker": "Projeto02\\Banco.cs",
@@ -81,8 +81,7 @@
               "RelativeToolTip": "Projeto02\\Banco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T18:11:53.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T18:11:53.901Z"
             },
             {
               "$type": "Document",

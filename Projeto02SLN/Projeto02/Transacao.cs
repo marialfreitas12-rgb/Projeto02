@@ -2,35 +2,23 @@
 
 namespace Projeto02
 {
-    public class Transacao
+    public abstract class Transacao
     {
         protected decimal _valor;
 
         public decimal Valor
         {
             get { return _valor; }
-            set
-            {
-                if (value > 0)
-                {
-                    _valor = value;
-                }
-                else
-                {
-                    Console.WriteLine("Erro: O valor da transação deve ser maior que zero!");
-                }
-            }
+            set { if (value > 0) _valor = value; }
         }
 
-        public DateTime Data { get; set; }
-
-        public string ContaOrigem { get; set; }
-
-        public string ContaDestino { get; set; }
+        public DateTime Data { get; set; } = DateTime.Now;
+        public ContaBancaria Origem { get; set; }
+        public ContaBancaria Destino { get; set; }
 
         public virtual bool Validar()
         {
-            return _valor > 0;
+            return _valor > 0 && Origem != null && Destino != null;
         }
     }
-}
+ }
