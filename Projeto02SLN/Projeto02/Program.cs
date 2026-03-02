@@ -7,7 +7,7 @@ static void Main(string[] args)
     meuBanco.Nome = "Banco do Brasil";
     meuBanco.CodigoBACEN = "001";
 
-    Transacao minhaTransacao=new Transacao();
+    Transacao minhaTransacao = new Transacao();
     minhaTransacao.Valor = 250.00m;
     minhaTransacao.Data = DateTime.Now;
 
